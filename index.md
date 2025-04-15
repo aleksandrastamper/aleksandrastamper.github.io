@@ -16,8 +16,8 @@ You can find my previous publications [here](https://scholar.google.com/citation
 ---
 ## About
 Hi, I'm Aleksandra. I'm currently a second year PhD student in Epidemiology at the Brown University School of Public Health working in the [Baker lab](https://www.rachelelizabethbaker.com). My work lies at the interesction of climate and health, and I'm currently using the Susceptible-Infected-Recovered model to assess the impacts of climate on influenza outbreaks. In the past, my work has been funded by the [NASA Rhode Island Space Consortium](https://sites.brown.edu/rispacegrant/).
----
 
+---
 ## Interests
 - Climate and infectious disease modeling
 - Utilizing publicly available data (e.g., disease surveillance, climate) to advance disease modeling methodology

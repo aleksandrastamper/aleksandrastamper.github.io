@@ -15,7 +15,6 @@ You can find my previous publications [here](https://scholar.google.com/citation
 - [Resume](#resume)
 - [Contact](#contact)
 
-Check out [my latest project](project1.html).
 ---
 ## About 
 # About Me

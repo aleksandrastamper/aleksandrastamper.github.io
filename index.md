@@ -5,8 +5,9 @@ title: Welcome
 
 # Hi, I'm Aleksandra 👋
 
-Welcome to my site!  
-Here’s where I’ll showcase my projects and portfolio.
+Welcome to my site! Here’s where I’ll showcase my projects and portfolio.
+You can find my previous publications here[https://scholar.google.com/citations?user=e10nsZ8AAAAJ&hl=en].
+
 ---
 ## 📌 Table of Contents
 - [About Me](#about-me)

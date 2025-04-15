@@ -46,7 +46,7 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 
 ---
 ## Resume
-📄 [Download My Resume (PDF)](/assets/20250412_AStamper_CV.pdf)
+📄 [Download My Resume](/assets/20250412_AStamper_CV.pdf)
 ## Experience
 **Graduate Research Assistant**
 

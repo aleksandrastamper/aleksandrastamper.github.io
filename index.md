@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Welcome
+<meta name="description" content="Aleksandra Stamper – researcher in climate, data science, and public health.">
+<meta name="author" content="Aleksandra Stamper">
 ---
 ## Hi, I'm Aleksandra 👋
 

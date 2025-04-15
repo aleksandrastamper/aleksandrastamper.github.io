@@ -8,12 +8,6 @@ Welcome to my site! Here’s where I’ll showcase my projects and portfolio.
 You can find my previous publications [here](https://scholar.google.com/citations?user=e10nsZ8AAAAJ&hl=en).
 
 ---
-## 📌 Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Resume](#resume)
-
----
 ## About
 Hi, I'm Aleksandra. I'm currently a second year PhD student in Epidemiology at the Brown University School of Public Health working in the [Baker lab](https://www.rachelelizabethbaker.com). My work lies at the interesction of climate and health, and I'm currently using the Susceptible-Infected-Recovered model to assess the impacts of climate on influenza outbreaks. In the past, my work has been funded by the [NASA Rhode Island Space Consortium](https://sites.brown.edu/rispacegrant/).
 
@@ -64,6 +58,7 @@ Thaler Center for HIV and Retrovirus Research, University of Virginia
 *2018-2020*
 
 ## Skills
-- R, Python, SQL, ArcGIS
+- Software/coding: R, Python, SAS, SQL, ArcGIS
+- Statisical methods: SIR model, general linear models, fixed effects regression
 
 ---

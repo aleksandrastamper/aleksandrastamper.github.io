@@ -33,4 +33,14 @@ Johns Hopkins Bloomberg School of Public Health, 2022
 Smith College, 2018
 ---
 ## Resume
+## Experience
+**Graduate Research Assistant**, Baker Lab
+*2023 - present*
+- Synthesize data
+
+**Health Data Analyst**, University Health Service at the University of Michigan
+*2021-2023*
+
+## Skills
+- R, Python, SQL, ArcGIS
 ---

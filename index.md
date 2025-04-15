@@ -2,7 +2,7 @@
 layout: default
 title: Welcome
 ---
-# Hi, I'm Aleksandra 👋
+## Hi, I'm Aleksandra 👋
 
 Welcome to my site! Here’s where I’ll showcase my projects and portfolio.
 You can find my previous publications [here](https://scholar.google.com/citations?user=e10nsZ8AAAAJ&hl=en).
@@ -12,7 +12,6 @@ You can find my previous publications [here](https://scholar.google.com/citation
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Resume](#resume)
-- [Contact](#contact)
 
 ---
 ## About 
@@ -30,6 +29,18 @@ Johns Hopkins Bloomberg School of Public Health, 2022
 
 **Bachelor of Arts: Biochemistry and Anthropology**
 Smith College, 2018
+
+---
+## Projects
+
+### Climate-disease dynamics
+**Modeling the impact of climate extremes on seasonal influenza outbreaks across tropical and temperate locations**
+
+**Projecting the impact of climate change on influenza outbreaks across temperate and tropical regions**
+
+
+### Respiratory analyses
+I've also aided in responses to emerging influenza outbreaks on a (college campus)[https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151] (including work featured in the (Morbidity and Mortality Weekly Report)[https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm]) and worked on analyses about (human adenovirus)[https://academic.oup.com/ofid/article/11/5/ofae192/7641318].
 
 ---
 ## Resume

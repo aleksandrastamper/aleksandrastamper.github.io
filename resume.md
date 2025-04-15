@@ -8,7 +8,7 @@ title: Resume
 *2023 - present*
 - Synthesize data
 
-** Health Data Analyst**, University Health Service at the University of Michigan
+**Health Data Analyst**, University Health Service at the University of Michigan
 *2021-2023*
 
 ## Skills

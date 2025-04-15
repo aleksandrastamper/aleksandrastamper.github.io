@@ -16,3 +16,7 @@ Here’s where I’ll showcase my projects and portfolio.
 
 Check out [my latest project](project1.html).
 ---
+## About 
+---
+## Resume
+---

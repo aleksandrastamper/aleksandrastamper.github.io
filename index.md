@@ -40,7 +40,7 @@ Smith College, 2018
 
 
 ### Respiratory analyses
-I've also aided in responses to emerging influenza outbreaks on a (college campus)[https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151] (including work featured in the (Morbidity and Mortality Weekly Report)[https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm]) and worked on analyses about (human adenovirus)[https://academic.oup.com/ofid/article/11/5/ofae192/7641318].
+I've also aided in responses to emerging influenza outbreaks on a [college campus][https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151] (including work featured in the (Morbidity and Mortality Weekly Report)[https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm]) and worked on analyses about (human adenovirus)[https://academic.oup.com/ofid/article/11/5/ofae192/7641318].
 
 ---
 ## Resume

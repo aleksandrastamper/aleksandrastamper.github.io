@@ -56,4 +56,5 @@ Smith College, 2018
 
 ## Skills
 - R, Python, SQL, ArcGIS
+
 ---

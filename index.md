@@ -2,6 +2,7 @@
 layout: default
 title: Welcome
 ---
+![Aleksandra Stamper](/images/headshot.jpg){: style="width:150px; border-radius:50%;"}
 
 # Hi, I'm Aleksandra 👋
 

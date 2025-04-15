@@ -21,6 +21,7 @@ Hi, I'm Aleksandra. I'm currently a second year PhD student in Epidemiology at t
 - Climate and infectious disease modeling
 - Utilizing publicly available data (e.g., disease surveillance, climate) to advance disease modeling methodology
 - Translating academic research into public health policy
+
 ---
 ## Education
 **Master of Applied Science in Spatial Analysis for Public Health**

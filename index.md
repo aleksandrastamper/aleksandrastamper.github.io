@@ -38,7 +38,8 @@ Smith College, 2018
 ## Experience
 **Graduate Research Assistant**, Baker Lab
 *2023 - present*
-- Synthesize data
+- Leverage Susceptible-Infected-Recovered (SIR) models and fixed effects regression to investigate the impact of climate on influenza transmission and outbreak dynamics
+- Use Python and R to query, process, and analyze high-dimensional climate, spatial, and infectious disease data
 
 **Health Data Analyst**, University Health Service at the University of Michigan
 *2021-2023*

@@ -18,9 +18,9 @@ I'm currently a second year PhD student in Epidemiology at the Brown University 
 
 ---
 ## Interests
-- Climate and infectious disease modeling
+- Infectious disease modeling
 - Utilizing publicly available data (e.g., disease surveillance, climate) to advance disease modeling methodology
-- Translating academic research into public health policy
+- Translating research into public health policy
 
 ---
 ## Education

@@ -2,8 +2,6 @@
 layout: default
 title: Welcome
 ---
-![Aleksandra Stamper](/images/02-Aleksandra Stamper-1920.jpg){: style="width:150px; border-radius:50%;"}
-
 # Hi, I'm Aleksandra 👋
 
 Welcome to my site! Here’s where I’ll showcase my projects and portfolio.

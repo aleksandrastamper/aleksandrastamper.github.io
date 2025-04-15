@@ -37,12 +37,14 @@ Smith College, 2018
 ## Resume
 ## Experience
 **Graduate Research Assistant**
+
 Baker Lab, Brown University School of Public Health
 *2023 - present*
 - Leverage Susceptible-Infected-Recovered (SIR) models and fixed effects regression to investigate the impact of climate on influenza transmission and outbreak dynamics
 - Use Python and R to query, process, and analyze high-dimensional climate, spatial, and infectious disease data
 
 **Health Data Analyst**
+
 University Health Service at the University of Michigan
 *2021-2023*
 - Synthesize, evaluate, and communicate regular data updates (e.g., operational metrics, communicable diseases, lab test results)
@@ -50,6 +52,7 @@ University Health Service at the University of Michigan
 - Use R, Python, SQL, and Tableau for data mining, processing, visualization, and presentation
 
 **Laboratory Specialist**
+
 Thaler Center for HIV and Retrovirus Research, University of Virginia
 *2018-2020*
 - Investigate the effects of a CRISPR Cas9 genetic knockout mutation in the mouse NXF1 gene; created and maintained data pertaining to the mouse colony

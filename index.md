@@ -35,9 +35,10 @@ Smith College, 2018
 
 ### Climate-disease dynamics
 **Modeling the impact of climate extremes on seasonal influenza outbreaks across tropical and temperate locations**
+We used a SIR model that incorporated climate as a driver of transmission to assess the impacts of climate variability on projected influenza outbreaks in the United States, Hong Kong, and Dhaka, Bangladesh. Work published in [March 2025](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001138). 
 
 **Projecting the impact of climate change on influenza outbreaks across temperate and tropical regions**
-
+Currently I'm working with a SIR model to assess influenza dynamics across temperate and tropical regions. Our goal is to assess the potential impacts of climate change on future seasonal influenza outbreak characteristics across North and South America. 
 
 ### Respiratory analyses
 I've also aided in responses to emerging influenza outbreaks on a [college campus](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151) (including work featured in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm)) and worked on analyses about [human adenovirus](https://academic.oup.com/ofid/article/11/5/ofae192/7641318).

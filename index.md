@@ -14,7 +14,7 @@ You can find my previous publications [here](https://scholar.google.com/citation
 
 ---
 ## About
-I'm currently a second year PhD student in Epidemiology at the Brown University School of Public Health working in the [Baker lab](https://www.rachelelizabethbaker.com) and supervised by (Dr. Rachel Baker)[https://vivo.brown.edu/display/rebaker]. My work lies at the interesction of climate and health, and I'm currently using the Susceptible-Infected-Recovered model to assess the impacts of climate on influenza outbreaks. In the past, my work has been funded by the [NASA Rhode Island Space Consortium](https://sites.brown.edu/rispacegrant/).
+I'm currently a second year PhD student in Epidemiology at the Brown University School of Public Health working in the [Baker lab](https://www.rachelelizabethbaker.com) and supervised by [Dr. Rachel Baker](https://vivo.brown.edu/display/rebaker). My work lies at the interesction of climate and health, and I'm currently using the Susceptible-Infected-Recovered model to assess the impacts of climate on influenza outbreaks. In the past, my work has been funded by the [NASA Rhode Island Space Consortium](https://sites.brown.edu/rispacegrant/).
 
 ---
 ## Interests

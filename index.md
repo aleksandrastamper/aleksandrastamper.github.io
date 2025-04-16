@@ -45,25 +45,10 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 
 ---
 ## Resume
-📄 [Resume](/assets/20250412_AStamper_CV.pdf)
-## Experience
-**Graduate Research Assistant**
+📄 [Find my resume here](/assets/20250412_AStamper_CV.pdf)
 
-Baker Lab, Brown University School of Public Health
-*2023 - present*
-
-**Health Data Analyst**
-
-University Health Service at the University of Michigan
-*2021-2023*
-
-**Laboratory Specialist**
-
-Thaler Center for HIV and Retrovirus Research, University of Virginia
-*2018-2020*
-
+---
 ## Skills
 - Software/coding: R, Python, SAS, SQL, ArcGIS
 - Statisical methods: SIR model, general linear models, fixed effects regression
-
 ---

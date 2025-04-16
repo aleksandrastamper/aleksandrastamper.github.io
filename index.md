@@ -51,4 +51,5 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 ## Skills
 - Software/coding: R, Python, SAS, SQL, ArcGIS
 - Statisical methods: SIR model, general linear models, fixed effects regression
+  
 ---

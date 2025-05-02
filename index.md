@@ -48,6 +48,11 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 📄 [Find my resume here](/assets/20250428_AStamper_CV.pdf)
 
 ---
+## Honors
+- Outstanding Doctoral Student Publication Award Recipient, Spring 2025
+- NASA Rhode Island Space Grant Fellow, Fall 2024
+
+---
 ## Skills
 - Software/coding: R, Python, SAS, SQL, ArcGIS
 - Statisical methods: SIR model, general linear models, fixed effects regression

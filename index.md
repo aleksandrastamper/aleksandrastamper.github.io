@@ -50,7 +50,7 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 
 ---
 ## Resume
-📄 [Find my resume here](/assets/20250428_AStamper_CV.pdf)
+📄 [Find my resume here](/assets/20260116_AStamper_CV.pdf)
 
 ---
 ## Skills
@@ -58,4 +58,5 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 - Statisical methods: SIR model, general linear models, fixed effects regression
   
 ---
+
 

@@ -45,6 +45,10 @@ We used a SIR model that incorporated climate as a driver of transmission to ass
 **Projecting the impact of climate change on influenza outbreaks across temperate and tropical regions**
 Currently I'm working with a SIR model to characterize influenza dynamics across a wide range of climate regions.
 
+**Other climate-disease work**
+Our group assesed climate impacts on seasonality of hospitalizations in Mexico, work published in [January 2026](https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9).
+
+
 ### Respiratory analyses
 I've also aided in responses to emerging influenza outbreaks on a [college campus](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151) (including work featured in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm)) and worked on analyses about [human adenovirus](https://academic.oup.com/ofid/article/11/5/ofae192/7641318).
 
@@ -58,5 +62,6 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 - Statisical methods: SIR model, general linear models, fixed effects regression
   
 ---
+
 
 

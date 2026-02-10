@@ -46,7 +46,7 @@ We used a SIR model that incorporated climate as a driver of transmission to ass
 Currently I'm working with a SIR model to characterize influenza dynamics across a wide range of climate regions.
 
 **Other climate-disease work**
-Our group assesed climate impacts on seasonality of hospitalizations in Mexico, work published in [January 2026](https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9).
+Recently, I invesigated the relationship bewteen climate factors and COVID-19 activity in the United States, work published in [February 2026](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342510). Our group also assesed climate impacts on seasonality of hospitalizations in Mexico, work published in [January 2026](https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9).
 
 
 ### Respiratory analyses
@@ -62,6 +62,7 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 - Statisical methods: SIR model, general linear models, fixed effects regression
   
 ---
+
 
 
 

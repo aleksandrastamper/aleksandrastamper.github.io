@@ -14,7 +14,7 @@ You can find my previous publications [here](https://scholar.google.com/citation
 
 ---
 ## About
-I'm currently a third year PhD student in Epidemiology at the Brown University School of Public Health working in the [Baker group](https://www.rachelelizabethbaker.com) and supervised by [Dr. Rachel Baker](https://vivo.brown.edu/display/rebaker). My work lies at the interesction of climate and health, and I'm currently using the Susceptible-Infected-Recovered model to assess the impacts of climate on influenza outbreaks. In the past, my work has been funded by the [NASA Rhode Island Space Consortium](https://sites.brown.edu/rispacegrant/).
+I'm currently a third year PhD candidate in Epidemiology at the Brown University School of Public Health working in the [Baker group](https://www.rachelelizabethbaker.com) and supervised by [Dr. Rachel Baker](https://vivo.brown.edu/display/rebaker). My work lies at the interesction of climate and health, and I'm currently using the Susceptible-Infected-Recovered model to assess the impacts of climate on influenza outbreaks. In the past, my work has been funded by the [NASA Rhode Island Space Consortium](https://sites.brown.edu/rispacegrant/).
 
 ---
 ## Interests
@@ -46,8 +46,7 @@ We used a SIR model that incorporated climate as a driver of transmission to ass
 Currently I'm working with a SIR model to characterize influenza dynamics across a wide range of climate regions.
 
 **Other climate-disease work**
-Recently, I invesigated the relationship bewteen climate factors and COVID-19 activity in the United States, work published in [February 2026](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342510). Our group also assesed climate impacts on seasonality of hospitalizations in Mexico, with work published in [January 2026](https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9).
-
+Recently, I invesigated the relationship bewteen climate factors and COVID-19 activity in the United States, work published in [February 2026](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342510). Our group also assesed climate impacts on seasonality of hospitalizations in Mexico, with work published in [January 2026](https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9). We 
 
 ### Respiratory analyses
 I've also aided in responses to emerging influenza outbreaks on a [college campus](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151) (including work featured in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm)) and worked on analyses about [human adenovirus](https://academic.oup.com/ofid/article/11/5/ofae192/7641318).

@@ -53,7 +53,7 @@ I've also aided in responses to emerging influenza outbreaks on a [college campu
 
 ---
 ## Resume
-📄 [Find my resume here](/assets/20260520_AStamper_CV.pdf)
+📄 [Find my resume here](/assets/20260616_AStamper_CV.pdf)
 
 ---
 ## Skills

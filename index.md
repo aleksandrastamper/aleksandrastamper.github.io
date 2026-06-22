@@ -34,7 +34,7 @@ a { color: var(--accent); }
 .top-nav {
   display: flex;
   align-items: center;
-  gap: 3rem;
+  gap: 1.5rem;
   border-bottom: 1px solid var(--line);
   padding-bottom: 1rem;
   margin-bottom: 3rem;

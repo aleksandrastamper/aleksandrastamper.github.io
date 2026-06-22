@@ -50,7 +50,7 @@ a { color: var(--accent); }
   padding-bottom: 0.5rem;
 }
 .theme-toggle {
-  margin-left: auto;
+  margin-left: 0;
   background: none;
   border: none;
   font-size: 1.4rem;
@@ -59,8 +59,8 @@ a { color: var(--accent); }
 }
 .layout {
   display: grid;
-  grid-template-columns: 300px minmax(0, 1fr);
-  gap: 2.5rem;
+  grid-template-columns: 260px 1fr;
+  gap: 3rem;
   align-items: start;
 }
 .sidebar img {
@@ -109,7 +109,6 @@ a { color: var(--accent); }
     <a href="#" class="tab-link active" data-tab="about">Aleksandra Stamper</a>
     <a href="#" class="tab-link" data-tab="cv">CV</a>
     <a href="#" class="tab-link" data-tab="research">Research</a>
-    <a href="#" class="tab-link" data-tab="resources">Resources</a>
     <button class="theme-toggle" onclick="toggleTheme()">☀︎</button>
   </nav>
 

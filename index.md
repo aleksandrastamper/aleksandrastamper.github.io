@@ -8,7 +8,7 @@ title: Welcome
 
 <style>
 :root {
-  --bg: #C6CAED;
+  --bg: #CADBC0;
   --text: #000;
   --muted: #333;
   --accent: #e83f5b;

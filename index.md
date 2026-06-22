@@ -8,7 +8,7 @@ title: Welcome
 
 <style>
 :root {
-  --bg: #CADBC0;
+  --bg: #CADBC0;t
   --text: #000;
   --muted: #333;
   --accent: #e83f5b;
@@ -24,6 +24,20 @@ body.dark {
 body {
   background: var(--bg);
   color: var(--text);
+}
+  .wrapper {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+section {
+  float: none !important;
+  width: auto !important;
+}
+
+header,
+footer {
+  display: none !important;
 }
 a { color: var(--accent); }
 .site-wrap {

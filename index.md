@@ -43,10 +43,10 @@ Smith College, 2018
 We used a SIR model that incorporated climate as a driver of transmission to assess the impacts of climate variability on projected influenza outbreaks in the United States, Hong Kong, and Bangladesh. Work published in [March 2025](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001138). 
 
 **Projecting the impact of climate change on influenza outbreaks across temperate and tropical regions**
-Currently I'm working with a SIR model to characterize influenza dynamics across a wide range of climate regions.
+I worked with a SIR model to characterize influenza dynamics across a wide range of climate regions, with work published in [June 2026](https://academic.oup.com/pnasnexus/article/5/6/pgag160/8708116?login=true).
 
 **Other climate-disease work**
-Recently, I invesigated the relationship bewteen climate factors and COVID-19 activity in the United States, work published in [February 2026](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342510). Our group also assesed climate impacts on seasonality of hospitalizations in Mexico, with work published in [January 2026](https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9). We 
+Recently, I invesigated the relationship bewteen climate factors and COVID-19 activity in the United States, work published in [February 2026](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342510). Our group also assesed climate impacts on seasonality of hospitalizations in Mexico, with work published in [January 2026](https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9). 
 
 ### Respiratory analyses
 I've also aided in responses to emerging influenza outbreaks on a [college campus](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151) (including work featured in the [Morbidity and Mortality Weekly Report](https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm)) and worked on analyses about [human adenovirus](https://academic.oup.com/ofid/article/11/5/ofae192/7641318).

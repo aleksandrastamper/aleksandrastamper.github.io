@@ -59,8 +59,9 @@ a { color: var(--accent); }
 }
 .layout {
   display: grid;
-  grid-template-columns: 240px 1fr;
-  gap: 4rem;
+  grid-template-columns: 300px minmax(0, 1fr);
+  gap: 2.5rem;
+  align-items: start;
 }
 .sidebar img {
   width: 170px;
@@ -162,6 +163,12 @@ a { color: var(--accent); }
           <li><strong>Outstanding Doctoral Student Publication Award Recipient</strong>, Spring 2025</li>
           <li><strong>NASA Rhode Island Space Grant Fellow</strong>, Fall 2024</li>
         </ul>
+
+        <h2>Skills</h2>
+        <ul>
+          <li>R, Python, SAS, SQL, ArcGIS</li>
+          <li>SIR/SIRS models, generalized linear models, fixed effects regression, spatial analysis</li>
+        </ul>
       </section>
 
       <section id="research" class="tab-content">
@@ -193,19 +200,6 @@ a { color: var(--accent); }
           <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm">MMWR</a>, and analyses of
           <a href="https://academic.oup.com/ofid/article/11/5/ofae192/7641318">human adenovirus</a>.
         </p>
-      </section>
-
-      <section id="resources" class="tab-content">
-        <h1>Resources</h1>
-        <p>
-          This page can hold code, teaching materials, datasets, tutorials, or notes.
-        </p>
-
-        <h2>Skills</h2>
-        <ul>
-          <li>R, Python, SAS, SQL, ArcGIS</li>
-          <li>SIR/SIRS models, generalized linear models, fixed effects regression, spatial analysis</li>
-        </ul>
       </section>
 
     </main>

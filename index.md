@@ -60,7 +60,7 @@ a { color: var(--accent); }
 .layout {
   display: grid;
   grid-template-columns: 260px 1fr;
-  gap: 3rem;
+  gap: 1.5rem;
   align-items: start;
 }
 .sidebar img {

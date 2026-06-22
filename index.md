@@ -8,7 +8,7 @@ title: Welcome
 
 <style>
 :root {
-  --bg: #CADBC0;t
+  --bg: #D7D9D7;
   --text: #000;
   --muted: #333;
   --accent: #e83f5b;
@@ -138,6 +138,7 @@ a { color: var(--accent); }
       <p>
         <a href="https://scholar.google.com/citations?user=e10nsZ8AAAAJ&hl=en">Google Scholar</a><br>
         <a href="/assets/20260616_AStamper_CV.pdf">CV</a>
+        <a href="https://github.com/aleksandrastamper">GitHub</a><br>
       </p>
     </aside>
 

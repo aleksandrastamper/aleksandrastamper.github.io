@@ -6,14 +6,17 @@ title: Welcome
 <meta name="author" content="Aleksandra Stamper">
 ## Aleksandra Stamper
 *PhD Candidate in Epidemiology, Brown University School of Public Health*
-Climate and health · infectious disease modeling · public health surveillance
+climate and health · infectious disease modeling · public health surveillance
 [Google Scholar](https://scholar.google.com/citations?user=e10nsZ8AAAAJ&hl=en) · [CV](/assets/20260616_AStamper_CV.pdf)
 
 ---
+
 # About
 
 Hi, I’m Aleksandra. I’m an epidemiologist and infectious disease modeler interested in how climate, environment, and human behavior shape infectious disease dynamics.
+
 I’m currently a PhD candidate in Epidemiology at the Brown University School of Public Health, where I work in the [Baker group](https://www.rachelelizabethbaker.com) with [Dr. Rachel Baker](https://vivo.brown.edu/display/rebaker). My research uses mechanistic models, statistical approaches, and public health surveillance data to understand respiratory virus transmission across different climate settings.
+
 My recent work focuses on influenza seasonality, climate-sensitive transmission, and how climate variability and climate change may alter outbreak timing and intensity. In the past, my work has been supported by the [NASA Rhode Island Space Grant Consortium](https://sites.brown.edu/rispacegrant/).
 
 ---
@@ -40,6 +43,7 @@ I have contributed to analyses of emerging respiratory outbreaks, including infl
 - Climate-sensitive disease dynamics
 - Public health surveillance
 - Translating quantitative research into policy-relevant evidence
+
 ---
 
 # Education

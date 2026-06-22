@@ -15,7 +15,9 @@ climate and health · infectious disease modeling · public health surveillance
 
 Hi, I’m Aleksandra. I’m an epidemiologist and infectious disease modeler interested in how climate, environment, and human behavior shape infectious disease dynamics.
 
+
 I’m currently a PhD candidate in Epidemiology at the Brown University School of Public Health, where I work in the [Baker group](https://www.rachelelizabethbaker.com) with [Dr. Rachel Baker](https://vivo.brown.edu/display/rebaker). My research uses mechanistic models, statistical approaches, and public health surveillance data to understand respiratory virus transmission across different climate settings.
+
 
 My recent work focuses on influenza seasonality, climate-sensitive transmission, and how climate variability and climate change may alter outbreak timing and intensity. In the past, my work has been supported by the [NASA Rhode Island Space Grant Consortium](https://sites.brown.edu/rispacegrant/).
 
@@ -57,9 +59,11 @@ Johns Hopkins Bloomberg School of Public Health, 2022
 Smith College, 2018
 
 ---
+
 # Honors
 - **Outstanding Doctoral Student Publication Award Recipient**, Spring 2025
 - **NASA Rhode Island Space Grant Fellow**, Fall 2024
+  
 ---
 
 # Skills

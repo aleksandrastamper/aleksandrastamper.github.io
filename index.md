@@ -199,7 +199,7 @@ a { color: var(--accent); }
           <strong>Modeling the impact of climate extremes on seasonal influenza outbreaks.</strong>
           We used a SIR model with climate-sensitive transmission to assess influenza outbreaks in the United States,
           Hong Kong, and Bangladesh. This work was published in
-          <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001138">GeoHealth</a>.
+          <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GH001138">AGU GeoHealth</a>.
         </p>
         <p>
           I have also investigated climate factors and COVID-19 activity in the United States, published in
@@ -210,7 +210,7 @@ a { color: var(--accent); }
         <h2>Respiratory virus surveillance</h2>
         <p>
           I have contributed to analyses of influenza activity on a
-          <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151">college campus</a>, work featured in
+          <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/irv.13151">college campus</a>, with work featured in
           <a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7049e1.htm">MMWR</a>, and analyses of
           <a href="https://academic.oup.com/ofid/article/11/5/ofae192/7641318">human adenovirus</a>.
         </p>

@@ -204,7 +204,7 @@ a { color: var(--accent); }
         <p>
           I have also investigated climate factors and COVID-19 activity in the United States, published in
           <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342510">PLOS ONE</a>, and
-          contributed to <a href="https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9/meta">work< a/> on climate and seasonality of hospitalizations in Mexico.
+          contributed to <a href="https://iopscience.iop.org/article/10.1088/2515-7620/ae37d9/meta">work<a/> on climate and seasonality of hospitalizations in Mexico.
         </p>
 
         <h2>Respiratory virus surveillance</h2>

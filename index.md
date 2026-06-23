@@ -128,7 +128,7 @@ a { color: var(--accent); }
 
   <div class="layout">
     <aside class="sidebar">
-      <img src="images/02-Aleksandra Stamper-1920.jpg" alt="Aleksandra Stamper">
+      <img src="images/updated_headshot.png" alt="Aleksandra Stamper">
       <h2>Aleksandra Stamper</h2>
       <p>she/her</p>
       <p>

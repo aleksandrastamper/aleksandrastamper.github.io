@@ -137,7 +137,7 @@ a { color: var(--accent); }
       </p>
       <p>
         <a href="https://scholar.google.com/citations?user=e10nsZ8AAAAJ&hl=en">Google Scholar</a><br>
-        <a href="/assets/20260616_AStamper_CV.pdf">CV</a>
+        <a href="/assets/20260814_AStamper_CV.pdf">CV</a>
         <a href="https://github.com/aleksandrastamper">GitHub</a><br>
       </p>
     </aside>

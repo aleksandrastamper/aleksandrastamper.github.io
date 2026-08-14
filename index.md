@@ -165,7 +165,7 @@ a { color: var(--accent); }
 
       <section id="cv" class="tab-content">
         <h1>CV</h1>
-        <p><a href="/assets/20260616_AStamper_CV.pdf">Download my full CV here.</a></p>
+        <p><a href="/assets/20260814_AStamper_CV.pdf">Download my full CV here.</a></p>
 
         <h2>Education</h2>
         <p><strong>PhD in Epidemiology</strong><br>Brown University School of Public Health</p>

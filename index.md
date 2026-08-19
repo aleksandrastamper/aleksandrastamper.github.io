@@ -174,6 +174,7 @@ a { color: var(--accent); }
 
         <h2>Honors</h2>
         <ul>
+          <li><strong>Ruth L. Kirschstein NRSA Predoctoral Fellow (F31)</strong>, Fall 2026 - present</li>
           <li><strong>Outstanding Doctoral Student Publication Award Recipient</strong>, Spring 2025</li>
           <li><strong>NASA Rhode Island Space Grant Fellow</strong>, Fall 2024</li>
         </ul>

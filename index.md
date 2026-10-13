@@ -137,7 +137,7 @@ a { color: var(--accent); }
       </p>
       <p>
         <a href="https://scholar.google.com/citations?user=e10nsZ8AAAAJ&hl=en">Google Scholar</a><br>
-        <a href="/assets/20260814_AStamper_CV.pdf">CV</a>
+        <a href="/assets/20261013_AStamper_CV.pdf">CV</a>
         <a href="https://github.com/aleksandrastamper">GitHub</a><br>
       </p>
     </aside>
@@ -171,7 +171,7 @@ a { color: var(--accent); }
 
       <section id="cv" class="tab-content">
         <h1>CV</h1>
-        <p><a href="/assets/20260814_AStamper_CV.pdf">Download my full CV here.</a></p>
+        <p><a href="/assets/20261013_AStamper_CV.pdf">Download my full CV here.</a></p>
 
         <h2>Education</h2>
         <p><strong>PhD in Epidemiology</strong><br>Brown University School of Public Health</p>

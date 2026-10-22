@@ -159,9 +159,8 @@ a { color: var(--accent); }
           across different climate settings.
         </p>
         <p>
-          I also serve as Lead Analyst for Wastewater Epidemiology at Georgetown University's 
-          <a href="https://ghss.georgetown.edu">Center for Global Health Science and Security</a>
-          supporting the 
+          I also serve as <a href = "https://ghss.georgetown.edu/people/">Lead Analyst</a> for Wastewater Epidemiology at Georgetown University's 
+          Center for Global Health Science and Security supporting the 
           <a href="https://ghss.georgetown.edu/national-center-for-health-security-and-resilience/health-security-operations-center/">Health Security Operation Center</a>. 
         </p>
         <p>

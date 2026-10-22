@@ -81,7 +81,7 @@ a { color: var(--accent); }
   width: 170px;
   height: 170px;
   object-fit: cover;
-  object-position: center 30%;
+  object-position: center 15%;
   border-radius: 50%;
   border: 2px solid var(--line);
 }

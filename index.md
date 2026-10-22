@@ -152,9 +152,9 @@ a { color: var(--accent); }
           environment, and human behavior shape infectious disease dynamics.
         </p>
         <p>
-          I’m currently a PhD candidate in Epidemiology at the Brown University School of Public Health, where I work
-          in the <a href="https://www.rachelelizabethbaker.com">Baker group</a> with
-          <a href="https://vivo.brown.edu/display/rebaker">Dr. Rachel Baker</a>. My research uses mechanistic models,
+          I’m currently a <a href = "https://reporter.nih.gov/search/bWo7A1sKWE2jHPZ_SjiR1w/project-details/11462391">NIAID F31 Fellow</a> 
+          and PhD candidate in Epidemiology at the Brown University School of Public Health, where I work
+          with <a href="https://vivo.brown.edu/display/rebaker">Dr. Rachel Baker</a>. My research uses mechanistic models,
           statistical approaches, and public health surveillance data to understand respiratory virus transmission
           across different climate settings.
         </p>
